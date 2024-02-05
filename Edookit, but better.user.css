@@ -1,0 +1,20 @@
+// ==UserScript==
+// @name        Edookit, but better
+// @description Vylepšení některých stránek Eddokitu.
+// @match        *://*.edookit.net/evaluation/*
+// ==/UserScript==
+/*
+table.coursesEvaluation > tbody > tr:nth-last-child(1),
+table.coursesEvaluation > tbody > tr:nth-last-child(2) {
+  color: #ccc !important;
+}
+table.coursesEvaluation > tbody > tr:nth-last-child(n+3) {
+  color: #000 !important;
+  background-color: #feffd1;
+}
+*/
+table.coursesEvaluation > tbody > tr > th {color:#ccc;}
+
+table.coursesEvaluation > tbody > tr > td {padding-top: 6px;}
+
+.summary-list {font-size: 12pt !important; font-weight:normal !important;}
