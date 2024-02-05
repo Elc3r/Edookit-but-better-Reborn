@@ -172,6 +172,16 @@ $(document).ready(function () {
           }
       }
       return 1; // Výchozí váha pokud není specifikována
-  }
+  };
+
+  // Přidání CSS stylů
+  $("<style>")
+  .prop("type", "text/css")
+  .html(`
+      table.coursesEvaluation > tbody > tr > th {color:#ccc;}
+      table.coursesEvaluation > tbody > tr > td {padding-top: 6px;}
+      .summary-list {font-size: 12pt !important; font-weight:normal !important;}
+  `)
+  .appendTo("head");
 
 });
