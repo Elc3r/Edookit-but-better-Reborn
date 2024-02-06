@@ -1,6 +1,6 @@
 **Jedná se o fork Chrome pluginu Edookit, but better od mikar.net**
 
-Původní plugin byl z Chrome Web Store stažen a proto jsem vytvořil fork, který funguje ve všech prohlížečích kde je Tampermonkey a Userscripts. A aby to nebyla čistá krádež kódu tak jsem opravil pár chyb a přidal další funkce.
+Původní plugin byl z Chrome Web Store stažen a proto jsem vytvořil fork, který funguje ve všech prohlížečích kde je [Tampermonkey](https://www.tampermonkey.net) a [Userscripts](https://apps.apple.com/us/app/userscripts/id1463298887). A aby to nebyla čistá krádež kódu tak jsem opravil pár chyb a přidal další funkce.
 
 **Kompatibilita**
 
