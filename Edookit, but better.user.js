@@ -183,5 +183,8 @@ $(document).ready(function () {
       .summary-list {font-size: 12pt !important; font-weight:normal !important;}
   `)
   .appendTo("head");
+  
+  // Odstraní nativní Průběžný průměr
+  $(".evalArcContainer").remove();
 
 });
