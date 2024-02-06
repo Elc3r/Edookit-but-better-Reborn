@@ -12,3 +12,5 @@ Osobně plugin používám v Safari na Macu a iPhonu, ale funguje i v Chromu a F
  - [x] Přizpůsobení mobilnímu UI
  - [ ] Přidání vlastní známky
  - [ ] Dark mode
+
+<img src="imagePrew.PNG" width="700">
